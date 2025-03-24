@@ -37,6 +37,7 @@
 <h2>How to install/setup the Front-End</h2>
 
 > Open a terminal in VS Code and go into the frontend folder and then run
+> Live link:  (https://food-delivery-app-frontend-sfaj.onrender.com/)
 
 >❗Open the frontend first [http://localhost:5173](http://localhost:5173)
 
